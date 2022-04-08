@@ -1,4 +1,4 @@
-### 🦊 Hi, I'm Leticia Shiota!
+### 🤖 Hi, I'm Leticia Shiota!
 
 
 :dart:  I'm passionate to technology because it has enourmous potential to solve problems and huge impacto on people life. 
