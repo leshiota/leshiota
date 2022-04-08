@@ -1,7 +1,7 @@
 ### 🦊 Hi, I'm Leticia Shiota!
 
 
-🤖  I'm passionate to technology because it has enourmous potential to solve problems and huge impacto on people life. 
+🤖  I'm passionate to technology because it has enourmous potential to solve problems and huge impact on people life. 
 
 :rocket: I'm currently learning Python and SQL.
 
